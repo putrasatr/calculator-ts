@@ -68,23 +68,3 @@ class ScientCalc extends Calculator {
     }
   }
 }
-// const getCalculator = new ScientCalc(2);
-// console.log("Hasil Tambah =", getCalculator.add(1, 1, 20, 1));
-// console.log("Hasil Kurang =", getCalculator.subtract(23));
-// console.log("Hasil Kali =", getCalculator.multiple(2, 2));
-// console.log("Hasil Bagi =", getCalculator.divide(25, 5));
-// console.log(
-//   "Hasil Ketik =",
-//   getCalculator.typing({
-//     line: "(23-20)*2",
-//     prev: "*",
-//   })
-// );
-// console.log("Hasil pangkat dua =", getCalculator.sqrt(3));
-// console.log("Hasil pangkat =", getCalculator.pow({ x: 2, n: 100 }));
-
-// const secondCalc = new ScientCalc(0);
-
-// secondCalc.add(3);
-// secondCalc.pow({ x: 1 });
-// secondCalc.result();
